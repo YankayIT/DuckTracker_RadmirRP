@@ -20,7 +20,7 @@
 - Библиотеки: `mimgui`, `requests`, `inicfg`, `encoding`, `samp.events`, `vkeys`, `ffi`
 
 ## Автор
-Yankay  
+[Yankay](https://t.me/Yankay_st)
 [Telegram для поддержки](https://t.me/whyyankay)
 
 **Запрещено распространение и продажа без согласия автора!**
